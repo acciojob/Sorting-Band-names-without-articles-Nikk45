@@ -45,3 +45,5 @@ function displayBandNames(names) {
     ul.appendChild(li);
   });
 }
+
+displayBandNames(bandNames);
