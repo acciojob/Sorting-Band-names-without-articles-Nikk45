@@ -12,8 +12,6 @@
 // 	}
 // }
 
-
-
 // let element = document.getElementById("band");
 
 function sortBandNames(names) {
@@ -47,3 +45,5 @@ function displayBandNames(names) {
 }
 
 displayBandNames(bandNames);
+
+
