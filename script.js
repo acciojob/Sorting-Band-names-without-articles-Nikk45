@@ -1,5 +1,5 @@
 // //your code here
-// let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
+let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
 // function sortBand(list){
 // 	touristSpots.sort(a,b){
@@ -44,6 +44,6 @@ function displayBandNames(names) {
   });
 }
 
-displayBandNames(bandNames);
+displayBandNames(touristSpots);
 
 
