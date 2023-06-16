@@ -1,19 +1,6 @@
 // //your code here
 let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
-// function sortBand(list){
-// 	touristSpots.sort(a,b){
-
-// 		let removeArticles( name => name.replace(/^(a|an|the)/i,''));
-
-// 		let name1 = removeArticles(a.toLowerCase());
-// 		let name2 = removeArticles(b.toLowerCase());
-		
-// 	}
-// }
-
-// let element = document.getElementById("band");
-
 function sortBandNames(names) {
   return names.sort((a, b) => {
     // Function to remove articles from the band names
